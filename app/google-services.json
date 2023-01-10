@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "192129742268",
+    "project_id": "meu-servidor-223e0",
+    "storage_bucket": "meu-servidor-223e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192129742268:android:77b94efa3494117e07a7b9",
+        "android_client_info": {
+          "package_name": "edu.ufam.meuservidor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192129742268-7ptpq03rgj6do6uqss0qqq5cf4grmvca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDee6RSRxy7jpxZb-4lPtR7ZXi1oYxcZtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192129742268-7ptpq03rgj6do6uqss0qqq5cf4grmvca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
